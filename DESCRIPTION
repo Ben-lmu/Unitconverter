@@ -1,12 +1,12 @@
 Package: Unitconverter
-Title: Convert between american and european units
+Type: Package
+Title: Convert Between American and European Units
 Version: 0.0.0.9000
 Authors@R: 
-    person("Ben", "Büchelhofer", , "benben17112002@gmail.com", role = c("aut", "cre"))
-Description: This Package allows the conversion between american and european units in temperature weight and volume.
-for this u need to first enter the number you have and then the unit its in followed by the unit you want.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Ben", "Büchelhofer", email = "benben17112002@gmail.com", role = c("aut", "cre"))
+Description: This package allows conversion between American and European units 
+    for temperature, weight, and volume.
+License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
